@@ -3,7 +3,7 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [Screenshots](#screenshots)
+* Diagram](#diagram)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Features](#features)
@@ -22,7 +22,7 @@ Tree Branching Convention: Start with a section html tag. If there's another tag
 * CSS
 
 ## Setup
-I initially tried to create a remote repository on github, but did not succeed. So I created a repository on github and cloned it to my computer through the terminal. 
+I initially tried to create a remote repository on github, but did not succeed. I will ask someone tomorrow for help in class. So I created a repository on github and cloned it to my computer through the terminal. 
 
 ## Features
 * Directory Structure Class Naming - This follows the General --> Specific principle. 
