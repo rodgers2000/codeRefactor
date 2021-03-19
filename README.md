@@ -13,8 +13,11 @@
 ## General info
 This assignment had me refactor existing code. You needed to analyze the document to see its structure and make the css and html more semantic in nature. 
 
-## Screenshots
-<!--- ![Example screenshot](./img/screenshot.png) --->
+## Diagram
+Naming Convention: General --> Specific 
+> Contrainer
+> > Elements
+> > > Detail
 
 ## Technologies
 * HTML
