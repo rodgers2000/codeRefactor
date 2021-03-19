@@ -26,7 +26,7 @@ I initially tried to create a remote repository on github, but did not succeed. 
 
 ## Features
 * Directory Structure Class Naming - This follows the General --> Specific principle. 
-* Object Document Tag Naming - This follows HTML Tree Branching principle. 
+* Object Document Model - This follows HTML Tree Branching principle. 
 
 To-do list:
 * Drop the 2nd level class names for this particular document. 
